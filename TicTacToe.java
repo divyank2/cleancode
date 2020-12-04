@@ -1,6 +1,5 @@
 /*
   The assignment was to clean up this file : https://github.com/getmubarak/cleancode/blob/master/TicTacToe.java
-  Assignment Incomplete . 
 */
 
 import java.util.Arrays;
